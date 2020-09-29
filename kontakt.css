@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+    font-family: sans-serif;
+    font-size: 30px;
+    padding: 50px;
+    margin: 0;
+}
+nav li {
+    display: inline;
+    background-color: rgb(226, 151, 162)  ;
+    border-style: double;
+    border-color: darkmagenta;
+    border-radius: 30px;
+    text-align: center;
+
+}
+nav ul {
+    padding: 3px;
+}
+h1 {
+    padding-left: 50px;
+    background-color: rgb(226, 151, 162) ;
+}
+main {
+    background-color: rgb(226, 151, 162) ;
+    padding: 40px;
+    margin:0;
+}

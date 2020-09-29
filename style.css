@@ -1,0 +1,30 @@
+body {
+    font-family: 'Amiri', serif;
+    text-align: center;
+    background-color:rgb(168, 238, 234);
+    padding: 50px;
+}
+h1 {
+    background-color:  rgb(141, 212, 212);
+    font-size: 70px;
+    color: darkslategray;
+}
+p {
+    text-align: inherit;
+    line-height: 1.5;
+    font-size: 30px;
+    background-color: rgb(141, 212, 212);
+    color: darkslategray;
+    padding: 40px;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: darkslategray;
+    border-width: 4px;
+}
+main {
+    padding: 5rem 8rem;
+}
